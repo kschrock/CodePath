@@ -41,21 +41,27 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![](your-link-here)
 **Title Hover Styled Differently and 5 Buttons**
+
 ![](https://i.imgur.com/rf1oYo7.gif)
 
 **3 Guesses and Your Out**
+
 ![](https://i.imgur.com/JpuJEXt.gif)
 
 **Randomized Array Pattern**
+
 ![](https://i.imgur.com/0TFbuBa.gif)
 
 **Beginning Speed**
+
 ![](https://i.imgur.com/keexhcl.gif)
 
 **Ending Speed**
+
 ![](https://i.imgur.com/0y3ToNo.gif)
 
 **Winning Game**
+
 ![](https://i.imgur.com/0beKKiP.gif)
 
 
